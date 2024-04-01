@@ -4,6 +4,7 @@ Návrh robota s napojením na cloudové služby
 - WolframAlpha
 - Raspberry pi OS
 - python
+
 Components:
   -Raspberry Pi 4 model B
   -Adafruit MAX98357 I2S Class-D Mono Amp
