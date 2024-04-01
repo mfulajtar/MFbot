@@ -6,9 +6,9 @@ Návrh robota s napojením na cloudové služby
 - python
 
 Components:
-  -Raspberry Pi 4 model B
-  -Adafruit MAX98357 I2S Class-D Mono Amp
-  -HC­SR04 ultrasonic sensor
-  -USB microfón
-  -2x Micro servo 9g SG90	
+  ;Raspberry Pi 4 model B
+  ;Adafruit MAX98357 I2S Class-D Mono Amp
+  ;HC­SR04 ultrasonic sensor
+  ;USB microfón
+  ;2x Micro servo 9g SG90	
 
