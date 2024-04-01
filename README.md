@@ -1,6 +1,6 @@
 # MFbot
 Návrh robota s napojením na cloudové služby
-- Using RPI 4 model B
+- RPI 4 model B
 - WolframAlpha
 - Raspberry pi OS
 - python
